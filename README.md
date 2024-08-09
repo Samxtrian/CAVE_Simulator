@@ -5,4 +5,4 @@ If you wish to run the simulator, you will have to enable developer permissions 
 If you wish to look at just the code involved in making the simulator, you can just open the scripts folder and look at the relevant files,
 however if you want to build and test the project in Unity then you will have to dowload and extract the given zip file instead 
 
-Made using: OpenGL, Unity, CSharp, and ShaderLabs. Compressed on Github using Smalltalk
+Made using: OpenGL, Unity, CSharp, and ShaderLabs. Compressed on Github using Git LFS
